@@ -1,0 +1,2 @@
+# EffectMobileTestTask
+TestTask for EffectMobile
